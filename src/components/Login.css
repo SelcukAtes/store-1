@@ -1,0 +1,12 @@
+.event-form {
+    border: solid;
+    border-color: black; 
+    width: 40%; 
+    position: relative;
+    height: 400px; 
+    margin: auto; 
+    left: 50px; 
+    top: 300px; 
+    display: flex;
+    flex-direction: column;
+  }
